@@ -1,0 +1,5 @@
+enum  Codes
+{
+	Error,
+	Exit
+};
